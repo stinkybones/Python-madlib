@@ -1,3 +1,6 @@
+#mab libs
+#by brett sears
+
 name = input('Enter your name: ') 
 print('Hello', name)
 print('Today we are going to use input and output to make a mad lib generator') #Introduction
